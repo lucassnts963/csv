@@ -1,0 +1,17 @@
+{
+  "name": "csv-show",
+  "version": "1.0.0",
+  "description": "A package to facilitate manipulation of csv file",
+  "main": "index.ts",
+  "repository": "https://github.com/lucassnts963/csv.git",
+  "author": "Lucas Santos",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "tsx watch src/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.1",
+    "typescript": "^4.9.3"
+  }
+}
